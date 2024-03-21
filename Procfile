@@ -1,0 +1,1 @@
+web: sh setup.sh && streamlit run circle_copy_st.py
